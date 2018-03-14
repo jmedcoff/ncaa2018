@@ -4,7 +4,9 @@ Normally, I don't like to participate in NCAA bracket competitions;
 odds at best a coin flip and gain is very little, almost as little as
 my interest in collegiate basketball. This year, I decided to try and
 use mathematical modeling to come up with an optimal bracket according
-to some constraints or rules.
+to some constraints or rules. The goal was to create a simple ruleset,
+creating a bracket without in depth consideration with specific point
+values, rosters, etc.
 
 ## Formula
 
