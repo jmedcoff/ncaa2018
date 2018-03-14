@@ -31,7 +31,7 @@ and this is *really* good because we have a set of linear
 equations. Namely, considering all the a<sub>ij</sub> as entries in a
 matrix, we obtain
 
-~[three](img/three.png)
+![three](img/three.png)
 
 Aha! So lambda is an eigenvalue, and the vector of "strengths" or
 "ratings" is the corresponding eigenvector. If we restrict entries of
