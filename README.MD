@@ -13,7 +13,7 @@ g<sub>i</sub>. We would like for the goodness to depend upon
 performance during games, but not on the number of games played, in
 case one team has played more games than others; its rank should not
 be boosted just by playing more games. Thus we need a normalizing
-factor 1/n<sub>i</sup>. We want to take a summation of strength
+factor 1/n<sub>i</sub>. We want to take a summation of strength
 displayed over each game played. In other words, we can say that
 g<sub>i</sub> is a sum with respect to strengths of other teams - and
 we'll throw in a coefficient a<sub>ij</sub> for good measure. Then to
